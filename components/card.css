@@ -1,0 +1,21 @@
+.container{
+   display: flex;
+   justify-content: space-evenly;
+   flex-wrap: wrap;
+ 
+}
+.items{
+    margin: 9px;;
+}
+
+#img{
+    height:210px;
+    width:210px;
+    border-radius: 20px;
+    margin:10px;
+    border-radius: 20px;;
+}
+#img:hover{
+ height:213px;
+ width:213px;
+}

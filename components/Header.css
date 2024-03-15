@@ -1,0 +1,15 @@
+
+div>ul>li{
+    padding:0px 10px;
+}
+
+.container{
+    display: flex;
+   
+    justify-content: space-between;
+   
+}
+img{
+    height:100px;
+    width:100px;
+}
